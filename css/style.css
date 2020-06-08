@@ -275,3 +275,14 @@ body{
 .product-list {
   margin-top: 20px;
 }
+
+.swiper-button-prev{
+  color: black;
+  height: 25px;
+  border-color: blue; 
+
+}
+.swiper-button-next{
+  height: 25px;
+  border-color: blue;
+}
